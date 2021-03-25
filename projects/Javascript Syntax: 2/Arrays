@@ -25,3 +25,5 @@ for (i=0; i<5; i++) {
 
 console.log(secretMessage.join(' '))
 
+"Hej från min Mac"
+
